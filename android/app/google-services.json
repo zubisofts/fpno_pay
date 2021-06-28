@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700334429948",
+    "project_id": "fpno-pay",
+    "storage_bucket": "fpno-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700334429948:android:5e2a3bdb50199889efe979",
+        "android_client_info": {
+          "package_name": "com.example.fpno_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700334429948-06hq6a5runcqndhhtvruvd0rq8bj1h0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQHTxzaNHGWprxqrQm65ENEdX8yB0kLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700334429948-06hq6a5runcqndhhtvruvd0rq8bj1h0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
