@@ -7,7 +7,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:fpno_pay/src/blocs/app/app_bloc.dart';
 import 'package:fpno_pay/src/blocs/auth/auth_bloc.dart';
 import 'package:fpno_pay/src/blocs/data/data_bloc.dart';
-import 'package:fpno_pay/src/pages/auth/login_page.dart';
 import 'package:fpno_pay/src/pages/intro/splashscreen.dart';
 import 'package:fpno_pay/src/repository/auth_repo.dart';
 import 'package:fpno_pay/src/repository/data_repo.dart';
